@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/minecraft-simulator/static/css/main.59765dde.css",
+    "main.js": "/minecraft-simulator/static/js/main.21ee719f.js",
+    "index.html": "/minecraft-simulator/index.html",
+    "main.59765dde.css.map": "/minecraft-simulator/static/css/main.59765dde.css.map",
+    "main.21ee719f.js.map": "/minecraft-simulator/static/js/main.21ee719f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.59765dde.css",
+    "static/js/main.21ee719f.js"
+  ]
+}
