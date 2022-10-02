@@ -25,3 +25,5 @@ You can choose between 5 types of blocks:
 ## Running The Code
 
 To run the project clone the repository and run `npm install && npm start` to launch the app.
+
+Inspired by [Maksim Ivanov](https://www.youtube.com/channel/UC5hby9iDkwOTQM7PIjyjbgw)
