@@ -2,7 +2,7 @@
 
 This small fun project is attempt to create Minecraft Simulator with React, TypeScript and Redux-toolkit.
 
-Demo: https://minecraft-freecodecamp.vercel.app/
+Demo: https://aleksfedotov.github.io/minecraft-simulator/
 
 ## Controls
 
