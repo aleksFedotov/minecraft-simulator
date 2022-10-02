@@ -13,6 +13,7 @@ You can choose between 5 types of blocks:
 - Log
 - Glass
 - Dirt
+  <br />
   To select press 1,2,3,4,5
   Use WASD to move
   Right click to place selected block
